@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\ecommmercemvcproject\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\ecommmercemvcproject\\ecommerce.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\appsettings.json",
+              "RelativeToolTip": "Ecommerce.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T08:22:16.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\Program.cs",
+              "RelativeToolTip": "Ecommerce.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T08:21:12.868Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
